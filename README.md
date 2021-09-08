@@ -15,3 +15,6 @@ Langkah - langkah menginstall aplikasi :
 
 Untuk Tampilan Aplikasi Sebagai Berikut
 
+![](image/header.png)
+![](image/main.png)
+![](image/footer.png)
